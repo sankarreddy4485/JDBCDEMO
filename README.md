@@ -1,0 +1,7 @@
+# JDBCDEMO
+
+Admin User:
+SIVA_ADMIN
+
+User:
+SIVA_USER
